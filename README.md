@@ -3,7 +3,7 @@ Welcome to my GitHub repository! My name is Danilo Dell'Orco and I am a software
 
 <br />
 <h2 align="center"> My Stats 📊</h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danilo-dellorco&theme=tokyonight&show_icons=true" alt="Github Language Stats">
