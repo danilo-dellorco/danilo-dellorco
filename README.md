@@ -17,7 +17,9 @@ Welcome to my GitHub repository! My name is Danilo Dell'Orco and I am a software
 
 <h2 align="center"> Contributions 💻 </h2>
 <br />
+
 Other University projects in which i worked to:
+
 - [BeEcological][1]
 
 [1]: https://github.com/jacopofabi/BeEcological
