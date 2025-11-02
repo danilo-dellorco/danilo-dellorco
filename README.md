@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there, I'm Danilo 👨‍💻</h2>
-Welcome to my GitHub repository! My name is Danilo Dell'Orco and I am a software development and cybersecurity enthusiast. I am currently completing my master's degree in Computer Engineering at the University of Rome Tor Vergata.
+I’m Danilo Dell'Orco, a security researcher focused on Android security, malware evasion, and detection techniques.
+I also work as a penetration tester (OSCP) and enjoy exploring system internals, analyzing threats, and building tools for research and security testing.
 
 <br />
 <h2 align="center"> My Stats 📊</h2>
